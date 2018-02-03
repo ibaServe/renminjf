@@ -1,0 +1,93 @@
+.wrap{
+	width: 96%;
+	margin: auto;
+	padding-bottom: 3rem;
+}
+div{
+	/*margin: 0.1rem auto;*/
+}
+li{
+	list-style: none;
+}
+a,a:hover{text-decoration:none;}
+span a{
+	color: white;
+}
+div.el-message-box{
+	width: 9rem;
+}
+div.title{
+	margin-bottom: 0.3rem;
+}
+.title .el-card__body{
+	padding: 0;
+}
+.title .el-card__body .item{
+	text-align: center;
+	padding: 0.5rem 0;
+}
+.title .el-card__body .item .return{
+	border: none;
+	float: right;
+}
+.title .el-card__body .item .add{
+	border: none;
+	float: left;
+}
+.title .el-card__body .item b{
+	vertical-align: middle;
+	margin-top: 0.1rem;
+	display: inline-block;
+}
+
+.el-row .item{
+		margin-top: 0.3rem;
+	}
+	
+b{
+		font-size: 0.5rem;
+		line-height: 0.8rem;
+	}
+.title b{
+	font-size:initial;
+}
+.el-input{
+	margin-bottom: 0.3rem;
+}
+.el-form-item{
+	margin-bottom: 0;
+}
+
+
+.nav-list div{
+	text-align: left;
+}
+
+.box-card{
+	margin: 0.2rem 0
+}
+.el-upload{
+	border: 0.026667rem dashed #d9d9d9;
+    border-radius: 0.16rem;
+    cursor: pointer;
+    position: relative;
+	overflow: hidden;
+	width: 100%;
+	text-align: center;
+	height: 4.75rem;
+	line-height: 4.75rem
+}
+.avatar-uploader-icon {
+    font-size: 0.746667rem;
+    color: #8c939d;
+    width: 4.746667rem;
+    height: 4.746667rem;
+    line-height: 4.746667rem;
+    text-align: center;
+}
+.el-icon-plus:before {
+    content: "\E62B";
+}
+img.avatar{
+	height: 100%
+}
