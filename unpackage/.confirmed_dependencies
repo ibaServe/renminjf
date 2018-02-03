@@ -1,10 +1,10 @@
 {
-	"index.html": {
-		"resources": [
-			"/static/js/polyfill.js",
-			"/static/js/flex.js",
-			"/static/css/main.css",
-			"/static/js/axios.min.js"
-		]
-	}
+  "index.html": {
+    "resources": [
+      "/static/js/polyfill.js",
+      "/static/js/flex.js",
+      "/static/css/main.css",
+      "/static/js/axios.min.js"
+    ]
+  }
 }
